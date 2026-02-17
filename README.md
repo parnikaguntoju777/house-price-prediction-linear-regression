@@ -1,4 +1,4 @@
-🏠 House Price Prediction using Linear Regression
+# PRODIGY_ML_01 - House Price Prediction using Linear Regression
 
 📌 Project Overview
 This project predicts house prices using Linear Regression. 
